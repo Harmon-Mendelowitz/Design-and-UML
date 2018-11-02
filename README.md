@@ -1,5 +1,16 @@
 # Java 3: Design and UML
 
+#### Ex 3.1
+
+![Q1](Java3Q1.png)
+
+#### Ex 3.2
+
+![Q2](Java3Q2.png)
+
+#### Ex 3.2
+
+![Q3](Java3Q3.pdf)
 
 #### Ex 3.4
 
