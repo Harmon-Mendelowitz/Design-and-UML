@@ -2,11 +2,11 @@
 
 #### Ex 3.1
 
-![Q1](Java3Q1.png)
+![Q1](Java3Q1.PNG)
 
 #### Ex 3.2
 
-![Q2](Java3Q2.png)
+![Q2](Java3Q2.PNG)
 
 #### Ex 3.2
 
